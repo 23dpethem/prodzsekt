@@ -1,1 +1,398 @@
+# Az Elhagyott Pszichiátria – részletes játékmenet, dokumentumok és jegyzetek
 
+## A játék menete
+
+### 1. Bevezetés
+A játék egy rövid narrációval indul:
+
+„1989-ben az Ashgrove Pszichiátriai Intézetet egyik napról a másikra bezárták.
+A hivatalos jelentések szerint gázszivárgás történt.
+A valóság azonban sokkal sötétebb volt.”
+
+A játékos egy névtelen nyomozó, aki egy eltűnt személy ügyében érkezik az intézethez.
+
+A kezdő választás:
+
+1. Belépés a főbejáraton
+2. Bejutás a pincén keresztül
+3. Körbejárni az épületet
+
+A választás befolyásolja:
+- milyen bizonyítékokat talál először,
+- milyen események aktiválódnak,
+- melyik befejezés válik elérhetővé.
+
+--------------------------------------------------
+
+# Helyszínek és események
+
+--------------------------------------------------
+
+## Betegszobák
+
+### Hangulat
+- rozsdás ágyak
+- véres falak
+- halk suttogások
+- villogó neonfények
+
+### Található tárgyak
+- betegkartonok
+- törött gyógyszeres üvegek
+- gyermekrajzok
+- kulcs a műtőhöz
+
+### Esemény
+A játékos árnyékot lát az egyik szobában.
+
+Választások:
+1. Követi az árnyat
+2. Elbújik
+3. Visszafordul
+
+Ha követi:
+- jumpscare esemény
+- új dokumentum megszerzése
+- sanity pont csökken
+
+--------------------------------------------------
+
+## Pince
+
+### Hangulat
+- vízcseppek hangja
+- láncok csörgése
+- teljes sötétség
+
+### Található tárgyak
+- generátor
+- régi kazetták
+- boncolási jegyzőkönyvek
+
+### Esemény
+A generátor időnként leáll.
+
+A játékos dönthet:
+1. Megjavítja
+2. Továbbmegy sötétben
+
+Ha sötétben megy:
+- gyorsabb haladás
+- nagyobb esély támadásra
+
+--------------------------------------------------
+
+## Műtő
+
+### Hangulat
+- vérfoltos műszerek
+- műtőlámpák maguktól felkapcsolnak
+
+### Fontos történeti pont
+Itt derül ki, hogy titkos kísérleteket végeztek a betegeken.
+
+### Található dokumentum
+„Projekt Lazarus”
+
+--------------------------------------------------
+
+## Iroda
+
+### Található:
+- igazgatói napló
+- széf
+- régi magnó
+
+### Feladvány
+A széf kódját dokumentumokból kell összerakni.
+
+Példa:
+- betegszám
+- dátum
+- szobaszám
+
+--------------------------------------------------
+
+## Gyógyszerraktár
+
+### Mechanika
+A játékos:
+- gyógyító szereket,
+- nyugtatókat,
+- mérgező vegyszereket találhat.
+
+A túl sok nyugtató:
+- hallucinációkat okoz.
+
+--------------------------------------------------
+
+## Biztonsági szoba
+
+### Itt található:
+- kamerafelvételek
+- lezárt ajtók vezérlése
+- végső bizonyíték
+
+A monitorokon néha olyan alak jelenik meg,
+aki nincs ott valójában.
+
+--------------------------------------------------
+
+# Dokumentumok és jegyzetek
+
+--------------------------------------------------
+
+## 1. Betegjegyzet
+
+Beteg neve: Samuel Varga
+Állapot: paranoid skizofrénia
+
+Megjegyzés:
+„A beteg folyamatosan azt állítja, hogy hangokat hall a falakból.”
+
+Utolsó megfigyelés:
+„Nem alszik. Fél a pincétől.”
+
+--------------------------------------------------
+
+## 2. Orvosi jelentés
+
+1989. október 12.
+
+A „Lazarus” kísérlet nem a tervek szerint halad.
+Több beteg agresszívvé vált.
+Két ápoló eltűnt a B szárnyban.
+
+--------------------------------------------------
+
+## 3. Vérrel írt üzenet
+
+„NE BÍZZ AZ ORVOSBAN”
+
+--------------------------------------------------
+
+## 4. Kazetta leirata
+
+[REC START]
+
+„Ha valaki ezt hallja…
+zárják le az alsó szinteket…
+nem emberek többé…”
+
+[SIKOLY]
+
+[REC END]
+
+--------------------------------------------------
+
+## 5. Igazgatói napló
+
+November 2.
+
+„A támogatók eredményeket követelnek.
+Dr. Keller szerint áttörés előtt állunk.
+Én viszont attól félek, valami kijutott a laborból.”
+
+--------------------------------------------------
+
+## 6. Gyermekrajz
+
+A rajzon:
+- egy fekete alak,
+- hosszú karok,
+- vörös szemek,
+- a pinceajtó látható.
+
+A hátoldalon:
+
+„Ő éjjel jön.”
+
+--------------------------------------------------
+
+# Horror események
+
+## Véletlenszerű események
+
+### Példák:
+- villogó lámpák
+- ajtócsapódás
+- lépések mögötted
+- rádió magától bekapcsol
+- vér jelenik meg a falon
+- eltűnő folyosók
+
+--------------------------------------------------
+
+# Játékrendszer
+
+## Sanity rendszer
+
+A játékosnak van:
+- HP
+- Sanity pontja
+
+Ha a sanity túl alacsony:
+- hallucinációk
+- hamis döntések
+- ál-ellenfelek jelennek meg
+
+--------------------------------------------------
+
+# Bizonyítékrendszer
+
+A játékos bizonyítékokat gyűjt:
+
+| Bizonyíték | Hatás |
+|---|---|
+| Kazetta | új történeti ág |
+| Betegkarton | széfkód részlet |
+| Kameraanyag | valódi befejezés |
+| Projekt Lazarus fájl | titkos ending |
+
+--------------------------------------------------
+
+# Lehetséges ellenfelek
+
+## Az Árnyék
+
+- humanoid lény
+- csak sötétben támad
+- néha tükrökben látható
+
+--------------------------------------------------
+
+## Dr. Keller
+
+Az intézet főorvosa.
+
+Lehet:
+- élő ember,
+- szellem,
+- vagy hallucináció.
+
+A játék során nem egyértelmű.
+
+--------------------------------------------------
+
+# Befejezések
+
+--------------------------------------------------
+
+## 1. Rossz befejezés – „Eltűnt”
+
+A játékos sanityje nullára csökken.
+
+Utolsó szöveg:
+
+„A rendőrség soha nem találta meg a nyomozót.”
+
+--------------------------------------------------
+
+## 2. Jó befejezés – „Az igazság”
+
+A játékos:
+- összegyűjti az összes bizonyítékot,
+- kijut az intézetből,
+- nyilvánosságra hozza a kísérleteket.
+
+--------------------------------------------------
+
+## 3. Titkos befejezés – „Te is közéjük tartozol”
+
+Kiderül:
+- a játékos egykori beteg volt,
+- emlékeit manipulálták.
+
+--------------------------------------------------
+
+# CLI menü példa
+
+=================================
+ AZ ELHAGYOTT PSZICHIÁTRIA
+=================================
+
+1. Új játék
+2. Mentés betöltése
+3. Súgó
+4. Kilépés
+
+Választás:
+
+--------------------------------------------------
+
+# Példa játékmenet
+
+Sötét folyosón állsz.
+Balról halk kopogás hallatszik.
+
+1. Megnézed
+2. Futás
+3. Elrejtőzés
+
+> 1
+
+Lassan benyitsz az ajtón...
+
+A szobában egy beteg ül háttal neked.
+
+„Segíts...”
+
+--------------------------------------------------
+
+# Hibakezelés ötletek
+
+## Hibás bemenet
+
+Érvénytelen választás!
+Kérlek válassz 1 és 3 között.
+
+--------------------------------------------------
+
+# Mentési rendszer
+
+Menthető adatok:
+- játékos neve
+- sanity
+- HP
+- összegyűjtött tárgyak
+- aktuális helyszín
+- választások
+
+Példa JSON:
+
+{
+  "player": "Detective",
+  "hp": 75,
+  "sanity": 42,
+  "location": "pince",
+  "inventory": [
+    "kazetta",
+    "kulcs"
+  ]
+}
+
+--------------------------------------------------
+
+# Extra ötletek
+
+## Nehézségi szintek
+
+### Könnyű
+- több gyógyítás
+- kevesebb horror esemény
+
+### Normál
+- alap élmény
+
+### Őrület mód
+- random események
+- hamis menük
+- változó szobák
+
+--------------------------------------------------
+
+# Titkos mechanikák
+
+- bizonyos dokumentumok csak alacsony sanity mellett látszanak,
+- a játék néha hazudik a játékosnak,
+- egyes döntések később teljesen más jelentést kapnak.
