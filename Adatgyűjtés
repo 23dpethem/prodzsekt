@@ -396,3 +396,40 @@ Példa JSON:
 - bizonyos dokumentumok csak alacsony sanity mellett látszanak,
 - a játék néha hazudik a játékosnak,
 - egyes döntések később teljesen más jelentést kapnak.
+
+
+
+
+
+
+
+
+
+
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        System.out.println("---------------------AZ ELHAGYOTT PSZICHIÁTRIA---------------------");
+        System.out.println("„1989-ben az Ashgrove Pszichiátriai Intézetet egyik napról a másikra bezárták.\n" +
+                "A hivatalos jelentések szerint gázszivárgás történt.\n" +
+                "A valóság azonban sokkal sötétebb volt.”");
+        System.out.println("A játékos egy névtelen nyomozó, aki egy eltűnt személy ügyében érkezik az intézethez.\n" +
+                "\n" +
+                "A kezdő választás:\n" +
+                "\n" +
+                "1. Belépés a főbejáraton\n" +
+                "2. Bejutás a pincén keresztül\n" +
+                "3. Körbejárni az épületet");
+
+        System.out.println("Játékos neve: ");
+
+        int kezdoValasztas = sc.nextInt();
+
+        if (kezdoValasztas == 1) {
+
+        }
+    }
+}
